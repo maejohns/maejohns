@@ -1,16 +1,51 @@
-## Hi there 👋
+# Welcome — I'm Mark Johnson
 
-<!--
-**maejohns/maejohns** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 I'm a computational mathematician (PhD, Princeton) and technology executive exploring the evolving landscape of artificial intelligence — with a focus on ethics, privacy, and the full computational stack from theory to deployment.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔬 Current Focus
+
+I'm independently researching the frontiers of AI through 2025, applying ideas from my PhD in dynamical systems to modern machine learning, while also diving into:
+
+- Algorithmic transparency and responsible deployment
+- Mathematical foundations of AI (stability, structure, invariants)
+- Practical and ethical data practices
+- Conversations with business leaders on real-world AI impact
+
+This is a space to share code, tools, models, and mathematical insights — some rooted in old Fortran, some in new PyTorch.
+
+---
+
+## 🧠 Background
+
+- Former **VP of Engineering at Netflix** — built core analytics infrastructure that powered the streaming shift  
+- Former **Chief Data Officer at Groupon** — scaled data science orgs through hypergrowth  
+- Former **SVP at Peloton** — led enterprise technology strategy  
+- PhD in **Applied and Computational Mathematics (Princeton)**  
+- Contributor to early tech at Yahoo, analyst for MLB, mentor to startup CTOs
+
+---
+
+## 🚴 Also...
+
+I'm an ultra-endurance athlete, training to race the 2026 Race Across America solo, combining physical grit with intellectual curiosity. I believe long-range thinking — in code, in math, in life — is more important than ever.
+
+---
+
+## 🧭 What's Next
+
+By early 2026, I'm aiming to take on a leadership role at a cutting-edge AI company — bringing together decades of experience in data, systems, and people with a clear-eyed view of where this technology is heading.
+
+---
+
+## 💬 Let’s Connect
+
+If you're working on:
+- Ethical or privacy-preserving AI
+- Dynamical systems applications in ML
+- AI infrastructure with strong mathematical foundations
+- Human-centered tools for transparency, resilience, and robustness
+
+Reach out — I'd love to learn more.
+
