@@ -19,9 +19,9 @@ This is a space to share code, tools, models, and mathematical insights — some
 
 ## 🧠 Background
 
-- Former **VP of Engineering at Netflix** — built core analytics infrastructure that powered the streaming shift  
-- Former **Chief Data Officer at Groupon** — scaled data science orgs through hypergrowth  
-- Former **SVP at Peloton** — led enterprise technology strategy  
+- Former **VP of Engineering at Netflix** — built the mathematical engine that kept those DVDs coming your way  
+- Former **Chief Data Officer at Groupon** — scaled a small tech and data team to span 50 countries and over 10,000 employess  
+- Former **SVP at Peloton** — led enterprise technology and enterprise data  
 - PhD in **Applied and Computational Mathematics (Princeton)**  
 - Contributor to early tech at Yahoo, analyst for MLB, mentor to startup CTOs
 
