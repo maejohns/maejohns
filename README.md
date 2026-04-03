@@ -1,7 +1,7 @@
 # Mark E. Johnson, PhD
 
 ## 👋 About Me
-Computational mathematician (Princeton PhD) exploring the mathematics of ethical AI and privacy-preserving technologies. Former VP Engineering at Netflix, CDO at Groupon, and SVP at Peloton. Training for Race Across America 2026.
+Computational mathematician (Princeton PhD) exploring the mathematics of ethical AI and privacy-preserving technologies. Former VP Engineering at Netflix, CDO at Groupon, and SVP at Peloton. 
 
 ## 🧠 Technical Background
 - PhD in Applied & Computational Mathematics (Princeton University)
